@@ -1,0 +1,21 @@
+.footer {
+    background-image: url(./Group.png);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.footer__icons-main {
+    display: flex;
+    gap: 34px;
+    max-width: 246px;
+    margin: 0 auto;
+    padding-bottom: 60px;
+}
+
+.footer__icons-personalPage {
+    display: flex;
+    gap: 34px;
+    max-width: 246px;
+    margin: 0 auto;
+    padding-bottom: 39px;   
+}

@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    background: #FCFCFC;
+}
+
+.container__header-backgraund {
+    background-image: url(./medium.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.container {
+    padding: 30px 40px 0 40px;
+}
+
+
+.header__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header__text-main {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    margin: 30px 0 40px;
+    color: #041A35;
+}
+
+.header__text-personalPage {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    margin: 40px 0px 30px;
+    color: #041A35;
+}

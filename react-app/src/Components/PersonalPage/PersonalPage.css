@@ -1,0 +1,52 @@
+.main__personalData {
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+    margin: 30px 0 30px;
+}
+
+.main__data {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0;
+}
+
+.main__color {
+    color: #E63756;
+}
+
+.personalPage__information {
+    padding: 20px 30px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 14px;
+    margin: 30px auto 60px auto;
+    max-width: 380px;
+}
+
+.personalPage__block {
+    display: flex;
+    gap: 10px;
+}
+
+.personalPage__img {
+    width: 6px;
+    height: 6px;
+    padding-top: 7px;
+}
+
+.personalPage__text {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    margin: 0;
+    color: #000000;
+}
+
+
+

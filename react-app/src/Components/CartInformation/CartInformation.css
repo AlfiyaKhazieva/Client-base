@@ -1,0 +1,40 @@
+.cartInformation {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 14px;
+    display: flex;
+    gap: 15px;
+    padding: 15px 15px;
+    max-width: 380px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+}
+
+.cartInformation__block {
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+
+}
+
+.cartInformation__question {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0;
+}
+
+.cartInformation__text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 16px;
+    margin: 0;
+}
+
+.red {
+    color: #E63756;
+}
